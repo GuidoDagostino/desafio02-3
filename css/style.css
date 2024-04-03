@@ -1,0 +1,48 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#logo-principal img {
+    width: 700px;
+    display: block;
+    margin: auto;
+}
+
+img{
+    width: 500px;
+    margin: 10px;
+}
+
+h2{
+    text-align: center;
+    color:#BB539A;
+    font-size: 60px;
+    font-weight: 100;
+    letter-spacing: 20px;
+}
+
+h3{
+    color:#BB539A;
+    font-size: 25px;
+    font-weight: 100;
+    letter-spacing: 10px;
+}
+
+p{
+    color: #3B63A6;
+}
+
+.pop-century{
+    float: inline-end;
+}
+.caribbean-beach{
+    float: inline-start;
+}
+
+.animal-king{
+    float: inline-end;
+}
+
+.footer-img{
+    width: 100%;
+}
